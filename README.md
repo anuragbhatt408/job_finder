@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Hosted Project on : https://job-finder-76abc.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
